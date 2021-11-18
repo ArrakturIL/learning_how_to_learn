@@ -1,0 +1,11 @@
+@import url(./__iframes/video__iframes.css);
+
+@import url(./__iframe/video__iframe.css);
+
+.video {
+  display: flex;
+  flex-direction: column;
+  margin: -60px;
+  position: relative;
+ /* background-image: linear-gradient(#fff 429px, #f2f2f2 60px);*/
+}

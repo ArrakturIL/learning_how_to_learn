@@ -1,0 +1,114 @@
+/blocks
+  /page
+    page.css
+
+  /logo
+    logo.css
+    /_place
+      logo_place_header.css
+      logo_place_footer.css
+
+  /header
+    header.css
+    /__title
+      header__title.css
+    /__subtitle
+      header__subtitle.css
+    /__link
+      header__link.css
+    /__main-ilustration
+      header__main-ilustration.css
+    /__square
+      header__square.css
+
+  /content
+    content.css
+
+  /description
+    description.css
+
+  /two-columns
+    two-columns.css
+    /__brief
+      two-columns__brief.css
+    /__main-text
+      two-columns__main-text.css
+    /__paragraph
+      two-columns__paragraph.css
+    /__span-accent
+      two-columns__span-accent.css
+
+  /digits
+    digits.css
+
+  /section-title
+    section-title.css
+    /_theme
+      section-title_theme_dark.css
+
+  /section-subtitle
+    section-subtitle.css
+    /_theme
+      section-subtitle_theme_dark.css
+
+  /table
+    table.css
+    /_theme
+      table_theme_dark.css
+    /__cell
+      table__cell.css
+      /_theme
+        table__cell_theme_dark.css
+    /__heading
+      table__heading.css
+      /_theme
+        table__heading_theme_dark.css
+    /__text
+      table__text.css
+        /_theme
+          table__text_theme_dark.css
+
+  /feynman
+    feynman.css
+    /__title
+      feynman__title.css
+    /__subtitle
+      feynman__subtitle.css
+    /__link
+      feynman__link.css
+    /__background-img
+      feynman__background-img.css
+
+  /kaufman
+    kaufman.css
+    /__triangle
+      kaufman__triangle.css
+
+  /footer
+    footer.css
+    /__columns
+      footer__columns.css
+    /__column
+      footer__column.css
+      /__column-heading
+        footer__column-heading.css
+      /_content
+        footer__column_content_about.css
+        footer__column_content_copyright.css
+        footer__column_content_social.css
+    /__author
+      footer__author.css
+    /__list
+      footer__list.css
+    /__column-link
+      footer__column-link.css
+    /__social-icons
+      footer__social-icons.css
+/vendor
+  normalize.css
+
+/main
+  index.css
+
+/fonts
+  fonts.css
