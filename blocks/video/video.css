@@ -1,7 +1,7 @@
 .video {
   display: flex;
   flex-direction: column;
-  margin: -60px;
+  margin: 0 0 -60px 0;
   position: relative;
- /* background-image: linear-gradient(#fff 429px, #f2f2f2 60px);*/
+  align-items: center;
 }
