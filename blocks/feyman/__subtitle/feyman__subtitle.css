@@ -1,7 +1,5 @@
-
-.feynman__subtitle {
+.feyman__subtitle {
   padding: 0;
-  display: flex;
   align-self: center;
   z-index: 1;
   line-height: 51px;
